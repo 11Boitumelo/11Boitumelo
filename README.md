@@ -8,13 +8,13 @@ I'm an aspiring Data Scientist from South Africa with a passion for turning data
 Outside of coding, I'm always learning something new, improving my skills, and working toward becoming a better data professional every day.
 
 ## 🚀 What I'm Working With
-current_focus = {
-    "languages": ["Python", "SQL", "R"],
-    "libraries": ["Pandas", "NumPy", "Matplotlib", "Scikit-learn"],
-    "tools": ["Power BI", "Excel", "Git", "GitHub", "Jupyter Notebook"],
-    "goal": "Using data to solve real-world problems",
-    "status": "Learning every day 🚀"
-}
+current_focus is 
+    - languages : "Python", "SQL", "R"
+    - libraries : Pandas , NumPy ,  Matplotlib ,  Scikit-learn 
+    - tools : Power BI ,  Excel , GitHub, Jupyter Notebook
+    - goal : Using data to solve real world problems
+    - status :  Learning every day 🚀
+ 
 
 ---
 
@@ -30,7 +30,7 @@ I'm passionate about using data to solve meaningful problems. Whether it's uncov
 - Data Engineering fundamentals
 - Cloud technologies (Azure & AWS)
 - End-to-end data science projects
-- Open-source collaboration
+- Open source collaboration
 
 ---
 
@@ -38,7 +38,7 @@ I'm passionate about using data to solve meaningful problems. Whether it's uncov
 
 I'm excited to contribute to opportunities that:
 
-- Solve real-world business problems
+- Solve real world business problems
 - Involve data analysis or machine learning
 - Help me grow as a Data Scientist
 - Encourage collaboration and continuous learning
@@ -81,7 +81,6 @@ Tools
 I'd love to connect with other data professionals, recruiters, and developers.
 
 - 📧 Email: boitumelos@ymail.com
-- 💼 LinkedIn: https://linkedin.com/in/boitumelo-mthimunye
 
 ---
 
