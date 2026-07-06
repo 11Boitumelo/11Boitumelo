@@ -8,12 +8,12 @@ I'm an aspiring Data Scientist from South Africa with a passion for turning data
 Outside of coding, I'm always learning something new, improving my skills, and working toward becoming a better data professional every day.
 
 ## 🚀 What I'm Working With
-current_focus is 
-    - languages : "Python", "SQL", "R"
-    - libraries : Pandas , NumPy ,  Matplotlib ,  Scikit-learn 
-    - tools : Power BI ,  Excel , GitHub, Jupyter Notebook
-    - goal : Using data to solve real world problems
-    - status :  Learning every day 🚀
+current_focus is  
+    - languages : Python, SQL, R 
+    - libraries : Pandas , NumPy ,  Matplotlib ,  Scikit-learn  
+    - tools : Power BI ,  Excel , GitHub, Jupyter Notebook 
+    - goal : Using data to solve real world problems 
+    - status :  Learning every day 🚀 
  
 
 ---
