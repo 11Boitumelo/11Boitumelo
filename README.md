@@ -9,11 +9,11 @@ Outside of coding, I'm always learning something new, improving my skills, and w
 
 ## 🚀 What I'm Working With
 current_focus is  
-    - languages : Python, SQL, R 
-    - libraries : Pandas , NumPy ,  Matplotlib ,  Scikit-learn  
-    - tools : Power BI ,  Excel , GitHub, Jupyter Notebook 
-    - goal : Using data to solve real world problems 
-    - status :  Learning every day 🚀 
+    - languages : Python, SQL, R       
+    - libraries : Pandas , NumPy ,  Matplotlib ,  Scikit-learn      
+    - tools : Power BI ,  Excel , GitHub, Jupyter Notebook     
+    - goal : Using data to solve real world problems     
+    - status :  Learning every day 🚀     
  
 
 ---
