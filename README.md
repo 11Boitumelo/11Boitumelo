@@ -1,5 +1,3 @@
-BoitumeloMthimunye- README.md
-
 
 # Hey there, I'm Boitumelo Mthimunye 👋
 
